@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable/icon_inbox.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable/icon_inbox.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable/icon_outbox.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable/icon_outbox.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable/icon_profile.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable/icon_profile.xml"
+    }
+]

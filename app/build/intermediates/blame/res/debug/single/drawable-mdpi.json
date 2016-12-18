@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable-mdpi/inbox_white.png",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable-mdpi/inbox_white.png"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable-mdpi/outbox_white.png",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable-mdpi/outbox_white.png"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable-mdpi/profile_white.png",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable-mdpi/profile_white.png"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable-mdpi/profile_gray.png",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable-mdpi/profile_gray.png"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable-mdpi/inbox_gray.png",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable-mdpi/inbox_gray.png"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable-mdpi/outbox_gray.png",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable-mdpi/outbox_gray.png"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

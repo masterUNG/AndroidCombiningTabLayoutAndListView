@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/layout/inbox_list.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/layout/inbox_list.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/layout/profile.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/layout/profile.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/layout/outbox_list.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/layout/outbox_list.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/layout/outbox_list_item.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/layout/outbox_list_item.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/layout/inbox_list_item.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/layout/inbox_list_item.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Workspace_Training/AndroidCombiningTabLayoutAndListView/app/src/main/res/layout/main.xml"
+    }
+]
